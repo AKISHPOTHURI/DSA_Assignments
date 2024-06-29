@@ -1,0 +1,62 @@
+Sorting Algorithms
+	Bubble Sort
+	Insertion Sort
+	Selection Sort
+	Quick Sort
+	Heap sort
+
+Searching Algorithms
+	Linear Search
+	Binary Search
+
+->String Algorithms(Pattern Searching Algorithms)
+Rabin Karp Algorithm
+KMP Algorithm
+Z Algorithm
+
+->Divide and Conquer
+Quick Sort
+Merge Sort
+Matrix Multiplication
+
+->Recursion & Backtracking
+N-Queens
+Rat in a maze
+Sudoku
+M coloring problem
+
+->Greedy Algorithms
+Job Sequencing Problem
+Prim’s algorithms for MST
+Fractional Knapsack problem
+
+->Dynamic Programming
+0/1 Knapsack Problem
+Longest Palindromic subsequence
+Longest common subsequence
+
+->Tree-Related Algo
+In-Order Traversal
+Pre-Order Traversal
+Post-Order Traversal
+Level-Order Traversal
+
+->Graph Algorithms
+Breadth First Search (BFS): A graph traversal algorithm that explores all the vertices of a graph that are reachable from a given source vertex.
+
+Depth First Search (DFS): A graph traversal algorithm that explores all the vertices of a graph that are reachable from a given source vertex, by going as far as possible along each branch before backtracking.
+
+Dijkstra Algorithm: A shortest path algorithm that finds the shortest path between a given source vertex and all other vertices in a weighted graph.
+
+Floyd Warshall Algorithm: An all-pairs shortest path algorithm that finds the shortest path between all pairs of vertices in a weighted graph.
+
+Bellman-Ford Algorithm: A shortest path algorithm that can handle negative weight edges and detect negative weight cycles.
+
+Prim’s algorithm: A minimum spanning tree algorithm that finds the minimum spanning tree of a weighted, undirected graph.
+
+Kruskal’s algorithm: Another minimum spanning tree algorithm that finds the minimum spanning tree of a weighted, undirected graph.
+
+->Sliding Window
+Fixed-size sliding window
+Variable-size sliding window
+
